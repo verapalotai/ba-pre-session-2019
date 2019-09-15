@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.1.31)  15 SEP 2019 12:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.1.31)  15 SEP 2019 13:12
 entering extended mode
 **./math_exam_solutions.tex
 (math_exam_solutions.tex
@@ -355,19 +355,19 @@ LaTeX Warning: No \author given.
 
 {C:/Users/Palotai Veronika/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] 
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 173--175
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--190
+Underfull \hbox (badness 10000) in paragraph at lines 194--197
 
  []
 
 [4]
 
 LaTeX Warning: The counter will not be printed.
-             The label is: $\bullet $ on input line 243.
+             The label is: $\bullet $ on input line 250.
 
 [5] [6] (math_exam_solutions.aux) ) 
 Here is how much of TeX's memory you used:
@@ -390,7 +390,7 @@ s/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy7.pfb>
-Output written on math_exam_solutions.pdf (6 pages, 151089 bytes).
+Output written on math_exam_solutions.pdf (6 pages, 152519 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
